@@ -3,8 +3,8 @@
 🎓 Fullstack Software Development 🎓 <br/>
 🧠 Cibersecurity Student 🧠 <br/>
 🧑🏻‍💻 Web Development 🧑🏻‍💻 <br/>
-🏍️ My life and trips in [Instagram](https://www.instagram.com/flown_empire_ant/) 🏍️
-👽 My work on [Linkedin](https://www.linkedin.com/in/denisvalenciazapata/)
+🏍️ My life and trips in [Instagram](https://www.instagram.com/flown_empire_ant/) 🏍️ <br/>
+👽 My work on [Linkedin](https://www.linkedin.com/in/denisvalenciazapata/) 👽 <br/>
 
 
 ## 🌐 Socials:
