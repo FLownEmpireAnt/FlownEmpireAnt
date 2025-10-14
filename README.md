@@ -1,8 +1,10 @@
 ## Hi, I'm Denis
 
-🎓 Fullstack Software Development 🎓
-🧠 Cibersecurity Student 🧠
-🧑🏻‍💻 Web Development 🧑🏻‍💻
+🎓 Fullstack Software Development 🎓 <br/>
+🧠 Cibersecurity Student 🧠 <br/>
+🧑🏻‍💻 Web Development 🧑🏻‍💻 <br/>
+🏍️ My life and trips in [Instagram](https://www.instagram.com/flown_empire_ant/) 🏍️
+👽 My work on [Linkedin](https://www.linkedin.com/in/denisvalenciazapata/)
 
 
 ## 🌐 Socials:
